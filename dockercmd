@@ -1,0 +1,8 @@
+# docker pull jenkins
+# docker run jenkins
+# docker container ls
+# docker container ls -a 
+# docker start <container_id>
+# docker image ls or docker images 
+# docker container stop <container_id>
+# docker container rm <container_id>
